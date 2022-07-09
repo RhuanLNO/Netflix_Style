@@ -1,2 +1,2 @@
 # Netflix_Style
-A game-themed Netflix style page created with Bootstrap
+A game-themed Netflix style page using Jquery
